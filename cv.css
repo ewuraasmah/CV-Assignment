@@ -1,0 +1,39 @@
+*{
+    font-family: Verdana;
+    font-size: 8.5pt;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.left{
+    float: left;
+    font-weight: bolder;
+}
+
+.right{
+    float: right;
+    font-weight: bolder;
+}
+
+.sleft{
+    font-weight: normal;
+}
+
+.sright{
+    font-weight: normal;
+    float: right;
+}
+
+#name{
+    font-size: 12pt;
+}
+
+.top{
+    text-align: center;
+    line-height: 10px;
+    font-size: 8.5pt;
+}
+
+hr{
+    margin-top: -27px;
+}

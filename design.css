@@ -1,0 +1,18 @@
+/*my stylesheet */
+
+body{
+    background-color: skyblue ; 
+}
+
+* {
+    box-sizing: border-box;
+    border-block-color: black;
+    display: inline-block;
+    width: 20cm;
+    padding: 8px;
+}
+.field-group{
+    font-size: 20px;
+}
+
+
